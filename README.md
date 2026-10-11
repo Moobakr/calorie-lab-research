@@ -41,4 +41,4 @@ The original collection method, label construction, units and dataset license ar
 - [Technical guide](docs/TECHNICAL_GUIDE.md): setup, commands, repository structure and reproducibility limits.
 - [Original notebook](notebooks/legacy/github/Calories_burnt_prediction_project.ipynb): preserved for comparison with the research revision.
 
-Repository organization: the original notebook lives in [calories-burnt-prediction](https://github.com/Moobakr/calories-burnt-prediction); this repository contains the research study. See [how the repositories are organized](docs/REPOSITORY_ORGANIZATION.md).
+Repository organization: the original notebook lives in [calories-burnt-prediction](https://github.com/Moobakr/calories-burnt-prediction); this repository contains the research study.
