@@ -2,7 +2,7 @@
 
 An applied machine learning project asking: **Can we estimate a calorie benchmark's labels with fewer measurements, and when are the results unreliable?**
 
-I expanded an existing prediction notebook into a reproducible comparison of models, an analysis of their failure cases, and a working browser demo. The project combines Python, scikit-learn, XGBoost, JavaScript and Hugging Face Static Spaces.
+I expanded the [original prediction notebook project](https://github.com/Moobakr/calories-burnt-prediction) into a reproducible comparison of models, an analysis of their failure cases, and a working browser demo. The project combines Python, scikit-learn, XGBoost, JavaScript and Hugging Face Static Spaces.
 
 **[Try the live demo](https://huggingface.co/spaces/Moobakr/calorie-lab-fewer-sensors)** · **[Read the two-page brief](output/pdf/Calorie_Lab_Project_Brief.pdf)** · **[Explore the case study](portfolio/PROJECT_CASE_STUDY.md)**
 
@@ -44,3 +44,5 @@ The original collection method, label construction, units and dataset license ar
 - [Deployment verification](docs/STATIC_DEMO_GUIDE.md): how the browser demo reproduces the Python models.
 - [Technical guide](docs/TECHNICAL_GUIDE.md): setup, commands, repository structure and reproducibility limits.
 - [Original notebook](notebooks/legacy/github/Calories_burnt_prediction_project.ipynb): preserved for comparison with the research revision.
+
+Repository organization: the original notebook lives in [calories-burnt-prediction](https://github.com/Moobakr/calories-burnt-prediction); this repository contains the research study. See [how the repositories are organized](docs/REPOSITORY_ORGANIZATION.md).

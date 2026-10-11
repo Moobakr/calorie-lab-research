@@ -20,6 +20,6 @@ The models are exported from the original hash-verified Python pipelines, withou
 
 `metadata.json` binds exported forests to original model hashes and final research snapshots. `PACKAGE_MANIFEST.json` lists every deployment file's SHA-256. The package excludes dataset observations, per-record predictions, notebooks, Python pickle files and credentials. No software or dataset license is inferred on the author's behalf.
 
-Research source: [calories-burnt-prediction](https://github.com/Moobakr/calories-burnt-prediction). The demo branch may be ahead of the published default branch. The repository also retains a Python/Waitress Docker implementation; this Static Space does not run that server and is not evidence of a deployed container.
+Research source: [calorie-lab-research](https://github.com/Moobakr/calorie-lab-research). The repository also retains a Python/Waitress Docker implementation; this Static Space does not run that server and is not evidence of a deployed container.
 
 For local preview, serve this folder over HTTP (for example, `python -m http.server 7860 --bind 127.0.0.1`) and open `http://127.0.0.1:7860`. Opening the HTML directly from disk does not support the asset integrity checks.

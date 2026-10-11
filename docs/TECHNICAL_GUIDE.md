@@ -1,7 +1,7 @@
 # Technical guide: Calorie Lab
 
 This is the research revision of
-[Moobakr/calories-burnt-prediction](https://github.com/Moobakr/calories-burnt-prediction).
+[Moobakr/calorie-lab-research](https://github.com/Moobakr/calorie-lab-research).
 The original GitHub notebook is preserved in
 [`notebooks/legacy/github/`](../notebooks/legacy/github/Calories_burnt_prediction_project.ipynb)
 as a historical reference. The commands below replace its execution workflow.
@@ -121,8 +121,7 @@ The [portfolio package](../portfolio/README.md) includes a
 [interview guide](../portfolio/INTERVIEW_GUIDE.md) and
 [contribution and claims record](../portfolio/CONTRIBUTIONS_AND_CLAIMS.md).
 The package reports benchmark evidence and substantial AI assistance;
-user benefit is unmeasured. The research/portfolio source revision is local;
-GitHub publication is pending.
+user benefit is unmeasured. The research source has a separate repository; see [repository organization](REPOSITORY_ORGANIZATION.md).
 
 ## Interactive demo
 

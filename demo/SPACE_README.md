@@ -16,7 +16,7 @@ The frozen heart-rate XGBoost model has test MAE 0.978 versus 1.032 for full inp
 
 The app loads four previously evaluated XGBoost pipelines and their fixed interval thresholds. It does not train, recalibrate or read the dataset. The two example scenarios are fictional. Submitted inputs are processed in memory; this app does not save submissions or use analytics. Hosting infrastructure may maintain ordinary request logs.
 
-Source and research history: [calories-burnt-prediction](https://github.com/Moobakr/calories-burnt-prediction). The demo branch may be ahead of the published default branch. `bundle/manifest.json` binds the exact model hashes to the frozen selection and evaluation snapshots. The package excludes all raw/derived observations, test predictions, bootstrap draws and credentials. No dataset or software license is inferred on the author's behalf.
+Source and research history: [calorie-lab-research](https://github.com/Moobakr/calorie-lab-research). `bundle/manifest.json` binds the exact model hashes to the frozen selection and evaluation snapshots. The package excludes all raw/derived observations, test predictions, bootstrap draws and credentials. No dataset or software license is inferred on the author's behalf.
 
 ## Run the packaged app
 

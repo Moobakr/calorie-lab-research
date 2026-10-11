@@ -1,0 +1,19 @@
+{
+  "status": "prepared_for_two_repository_publication",
+  "prepared_date": "2026-10-11",
+  "original_repository": "Moobakr/calories-burnt-prediction",
+  "research_repository": "Moobakr/calorie-lab-research",
+  "original_notebook_snapshot": "20a980246b93e8590c5adf9a35625db5ea53cbb3",
+  "original_notebook_exact_bytes_preserved": true,
+  "original_notebook_sha256": "94ec50e6c8ba3fb8f6bf91874ad38f7e782733754db4ee7d3812e6de1b2feab6",
+  "scientific_reports_unchanged": true,
+  "original_repository_history_preserved_by_forward_commit": true,
+  "pdf_pages": 2,
+  "new_research_source_link_in_pdf_verified": true,
+  "local_navigation_links_checked": true,
+  "new_training_fits": 0,
+  "new_reserved_test_scoring_runs": 0,
+  "usability": "skipped; no participant findings",
+  "pdf_rendered_and_visually_reviewed": true,
+  "pdf_sha256": "843ded90aa55759f4860d94d5778605da716f729a652287f903d0541c36bbf51"
+}

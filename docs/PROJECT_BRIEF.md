@@ -1,6 +1,6 @@
 # Calorie estimation with fewer measurements
 
-Project brief, version 1.1 - 11 October 2026
+Project brief, version 1.2 - 11 October 2026
 
 **Purpose:** investigate the tradeoff between predictive error and measurement requirements, and produce reproducible evidence of when a simpler estimator is sufficient. The project will demonstrate experimental design, software quality, error analysis, and honest interpretation for an applied AI portfolio.
 
@@ -47,4 +47,4 @@ The intended contribution is a documented study of incremental input value, unce
 
 Deliver: a reproducible repository, experimental results, a concise research report, a demo using the evaluated pipeline, and an application package describing measured benchmark findings and actual contributions. A usability kit is retained, but collection was skipped.
 
-**Implementation:** items 3?9 are complete: reproducible preparation, frozen evaluation, baselines, input comparison, reliability analysis, one-time final test evaluation and a verified live Static demo. Item 10 is skipped; item 11 materials are prepared on research/portfolio with GitHub source publication pending. See [the checklist](PROJECT_CHECKLIST.md), [final report](FINAL_EVALUATION_REPORT.md) and [portfolio](../portfolio/README.md).
+**Implementation:** items 3-9 are complete: reproducible preparation, frozen evaluation, baselines, input comparison, reliability analysis, one-time final test evaluation and a verified live Static demo. Item 10 is skipped; item 11 materials are prepared; the research source now has its own repository (see REPOSITORY_ORGANIZATION.md). See [the checklist](PROJECT_CHECKLIST.md), [final report](FINAL_EVALUATION_REPORT.md) and [portfolio](../portfolio/README.md).
