@@ -29,10 +29,6 @@ The supplied dataset contains 15,000 records. After removing one duplicate, the 
 - **Implementation:** a public demo running four frozen models directly in the browser.
 - **Verification:** 82 Python tests and four JavaScript checks passed; browser predictions and interval bounds matched Python exactly on 5,854 synthetic cases.
 
-## My contribution and AI assistance
-
-I supplied the starting notebook/data, directed project choices, selected free hosting, completed account setup and checked the live demo. An AI assistant provided substantial implementation, analysis-tooling and documentation support. The [contribution record](portfolio/CONTRIBUTIONS_AND_CLAIMS.md) explains those roles.
-
 ## Limits and next step
 
 The original collection method, label construction, units and dataset license are unresolved, and the file had already been explored in the original notebook. These results measure agreement with recorded labels; they do not establish physiological accuracy. User benefit has not been measured. The next research step is a separate study using documented measured data and an independent evaluation protocol.
